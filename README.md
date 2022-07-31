@@ -1,19 +1,23 @@
 # Controller Haven
 
-## WiiBalanceWalker
+## Programs
+
+### WiiBalanceWalker
 
 v0.5 https://github.com/lshachar/WiiBalanceWalker
 
 ## Protocols
 
-### Dolphin's UDPWii protocol
+### UDP Protocols
+
+#### Dolphin's UDPWii protocol
 
 https://github.com/EZForever/UDPWiiHook/wiki/Protocol
 
 Things using UDPWii:
 - https://github.com/EZForever/UDPMote
 
-### DSUS (DSU/Cemuhook) protocol
+#### DSUS (DSU/Cemuhook) protocol
 
 https://github.com/v1993/cemuhook-protocol
 
